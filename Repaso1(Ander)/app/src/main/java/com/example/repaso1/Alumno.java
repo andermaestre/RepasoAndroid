@@ -6,7 +6,7 @@ public class Alumno {
     private int nExpediente;//representa el número de cuenta.
     private String Nombre;
     private String Apellido;
-    private ArrayList<Falta>Faltas;
+    private ArrayList<Falta> Faltas= new ArrayList<>();
 
     public Alumno(int ne,String nom, String ape)
     {   this.Nombre=nom;

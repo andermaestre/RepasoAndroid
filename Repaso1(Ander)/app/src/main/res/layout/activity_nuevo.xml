@@ -32,7 +32,7 @@
         app:layout_constraintVertical_bias="0.655" />
 
     <EditText
-        android:id="@+id/txtDia"
+        android:id="@+id/txtFalta"
         android:layout_width="135dp"
         android:layout_height="39dp"
         android:ems="10"

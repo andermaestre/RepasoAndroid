@@ -7,6 +7,7 @@
     tools:context=".ConsultarActivity">
 
     <ListView
+        android:id="@+id/layout_lista"
         android:layout_width="350dp"
         android:layout_height="605dp"
         app:layout_constraintBottom_toBottomOf="parent"
